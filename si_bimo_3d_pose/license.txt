@@ -1,0 +1,11 @@
+Model Information:
+* title:	Si Bimo 3D pose
+* source:	https://sketchfab.com/3d-models/si-bimo-3d-pose-3f14cc525c9d4081b603ed2043616843
+* author:	Dandi HK (https://sketchfab.com/dandihk)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Si Bimo 3D pose" (https://sketchfab.com/3d-models/si-bimo-3d-pose-3f14cc525c9d4081b603ed2043616843) by Dandi HK (https://sketchfab.com/dandihk) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
