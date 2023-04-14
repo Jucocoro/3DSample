@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boar King
+* source:	https://sketchfab.com/3d-models/boar-king-8b9abb129f19434199be219b1e8cac84
+* author:	20kdena02 (https://sketchfab.com/20kdena02)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boar King" (https://sketchfab.com/3d-models/boar-king-8b9abb129f19434199be219b1e8cac84) by 20kdena02 (https://sketchfab.com/20kdena02) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
